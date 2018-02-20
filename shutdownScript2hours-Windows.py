@@ -14,4 +14,3 @@ while time.time() < finishTime:
 
 print ("done")
 os.system("shutdown.exe /s")
-
